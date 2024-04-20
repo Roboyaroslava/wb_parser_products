@@ -1,1 +1,3 @@
-Old parser WildBerries
+Old parser WildBerries.
+
+For education purposes only.
